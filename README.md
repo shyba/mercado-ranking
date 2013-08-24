@@ -9,7 +9,7 @@ Instruções
 ---------------
 Cole o conteúdo do mercadoranking.js no console do Chrome com o ranking aberto e uma coluna irá surgir com a média dos preços no Mercado Livre e um link para a busca.
 
-TODO
+To Do
 --------------
 * Não conseguir fazer o tablesorter funcionar novamente após a criação da nova coluna.
 * English description soon.
